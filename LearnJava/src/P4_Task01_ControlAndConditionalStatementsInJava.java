@@ -1,4 +1,4 @@
-package project;
+package Unit_01;
 
 public class P4_Task01_ControlAndConditionalStatementsInJava {
 
@@ -49,7 +49,7 @@ public class P4_Task01_ControlAndConditionalStatementsInJava {
 		  System.out.println("The sum of first 10 natural is : " + sum);
 		  
 		  //for Each
-		  String[] names = {"Java" , "Ritik" , "c" , "C++" , "Python" };
+		  String[] names = {"Java" , "Ketki" , "c" , "C++" , "Python" };
 		  System.out.println("Printing the content of the array names : \n");
 		   for(String name : names)
 		   {
